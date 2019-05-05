@@ -52,7 +52,7 @@ def makePCA(X,Y):
     plt.tight_layout()
     plt.title('2-PCA')
     plt.grid()
-    plt.savefig('PCA.png')
+    plt.savefig('images/PCA.png')
 
 def makeTSNE(X,Y):
     #making t-SNE visualization
@@ -80,7 +80,7 @@ def makeTSNE(X,Y):
     plt.tight_layout()
     plt.title('t-SNE')
     plt.grid()
-    plt.savefig('TSNE.png')
+    plt.savefig('images/TSNE.png')
 
     fig = plt.figure()
     ax = fig.add_subplot(111, projection='3d')
@@ -92,7 +92,7 @@ def makeTSNE(X,Y):
     plt.legend(loc='lower left')
     plt.tight_layout()
     plt.title('t-SNE 3D')
-    plt.savefig('TSNE3D.png')
+    plt.savefig('images/TSNE3D.png')
 
 
 def makeISOMAP(X,Y):
@@ -120,7 +120,7 @@ def makeISOMAP(X,Y):
     plt.ylabel('Y in Isomap')
     plt.legend(loc='upper left')
     plt.title('Isomap visualization')
-    plt.savefig('ISOMAP.png')
+    plt.savefig('images/ISOMAP.png')
 
 
 def startVisual(X,Y):
