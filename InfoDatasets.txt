@@ -1,0 +1,30 @@
+Wed-14: FTP-BruteForce,SSH-BruteForce---1048576
+Thu-15: DoS-GoldenEye,DoS-Slowloris---1048576
+Fri-16: DoS-SlowHTTPtest, DoS-Hulk---1048576
+Tue-20: DDoS attacks-LOIC-HTTP, DDoS-LOIC-UDP---7948749
+Wed-21: DDOS-LOIC-UDP, DDOS-HOIC---1048576
+Thu-22: Brute Force -Web, Brute Force -XSS, SQL Injection---1048576
+Fri-23: Brute Force -Web, Brute Force -XSS, SQL Injection---1048576
+Wed-28: Infiltration---613105
+Tue-01: Infiltration---331126
+Fri-02: Bot---1048576
+TOTAL DATA = 16233012
+
+FTP-BruteForce: 193360 --- 667626
+SSH-BruteForce: 187589 --- 667626 
+DoS-GoldenEye : 41508 --- 996077
+DoS-Slowloris : 10990 --- 996077 
+DoS-SlowHTTPtest: 139890  --- 446772
+DoS-Hulk : 461912 --- 446772
+DDoS attacks-LOIC-HTTP : 576191 --- 7370962
+DDoS-LOIC-UDP : 1730 --- 360833
+DDOS-HOIC : 686012 --- 360833 
+Brute Force -Web : 362 --- 2096222
+Brute Force -XSS : 151 --- 2096222
+SQL Injection : 53 --- 2096222
+Infiltration : 93063 --- 782237
+Bot : 286191 --- 762384
+
+TOTAL ATTACKS = 2539112
+TOTAL BENIGN = 13693900
+TOTAL DATA = 16233012

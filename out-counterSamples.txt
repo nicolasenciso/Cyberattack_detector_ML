@@ -1,0 +1,34 @@
+benign samples in wed14: 667626
+attack samples in wed14: 380949
+----------------------------------------------------------
+benign samples in thu15: 996077
+attack samples in thu15: 52498
+----------------------------------------------------------
+benign samples in fri16: 446772
+attack samples in fri16: 601802
+----------------------------------------------------------
+benign samples in thu20: 7948749
+attack samples in thu20: 0
+----------------------------------------------------------
+benign samples in wed21: 360833
+attack samples in wed21: 687742
+----------------------------------------------------------
+benign samples in thu22: 1048213
+attack samples in thu22: 362
+----------------------------------------------------------
+benign samples in fri23: 1048009
+attack samples in fri23: 566
+----------------------------------------------------------
+benign samples in wed28: 544200
+attack samples in wed28: 68871
+----------------------------------------------------------
+benign samples in thu01: 238037
+attack samples in thu01: 93063
+----------------------------------------------------------
+benign samples in fri02: 1048576
+attack samples in fri02: 0
+----------------------------------------------------------
+TOTAL BENIGN SAMPLES = 14347092
+TOTAL ATTACK SAMPLES = 1885853
+TOTAL SAMPLES DATASETS = 16232945
+RATIO BENIGN/ATTACK SAMPLES = 7.607746733175915

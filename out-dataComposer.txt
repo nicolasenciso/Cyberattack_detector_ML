@@ -1,0 +1,56 @@
+------FTP Bruteforce-----
+1934
+6676
+------SSHBruteforce-----
+1876
+6676
+------DoS GoldenEye-----
+415
+9961
+------DoS Slow Loris-----
+110
+9961
+------DoS Slow HTTP Test-----
+1399
+4468
+------DoS Hulk-----
+4619
+4468
+------DDoSLOICHTTP-----
+5762
+4468
+------DDoSLOICUDP-----
+17
+3608
+------DDoSHOIC-----
+6860
+3608
+------Brute Force Web-----
+4
+20962
+------Brute Force XSS-----
+2
+20962
+------SQL injection-----
+1
+20962
+------Infiltration-----
+931
+7822
+------Bot-----
+2862
+7624
+--------------------------------------
+TOTAL ATTACKS: 
+26792
+-------------------------------
+TOTAL BENIGN: 
+132226
+---------------------------------
+TOTAL DATASET: 
+159018
+--------------------------------
+RATIO BENIGN / ATTACK: 
+4.935279187817259
+TOTAL COUNTER SAMPLES ON DATASET: 
+150420
